@@ -4,6 +4,7 @@ $arr = get_defined_vars();
 print_r($arr);
 
 // new line for git test
+//add new line for two step in file
 
 echo $_SERVER['PHP_SELF'];
 echo "<br>";
