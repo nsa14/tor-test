@@ -6,7 +6,11 @@ print_r($arr);
 // new line for git test
 //add new line for two step in file
 
-echo $_SERVER['PHP_SELF'];
+//add new line and new variable and change server values
+$newVar = 'my name is naser';
+
+
+echo $_SERVER['PHP_SELF2'];
 echo "<br>";
 echo $_SERVER['SERVER_NAME'];
 echo "<br>";
